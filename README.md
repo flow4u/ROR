@@ -4,6 +4,22 @@ ROR is a community-led project to develop an open, sustainable, usable, and uniq
 
 https://ror.org/
 
+on myDRE.org:
+
+*Install aiohttp via:*
+1. In VM open prompt as admin
+2. conda install -c conda-forge aiohttp
+
+
+don't forget to open up the port
+176.34.147.46:80
+
+
+Possible:
+34.252.177.86:80
+
+
+
 
 Either notebook will create a CSV with:
 
